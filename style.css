@@ -1,0 +1,23 @@
+﻿body {
+ background: purple; 
+}
+p {
+ color: white; 
+ font-family: Helvetica, sans-serif; 
+ font-size: 150%; 
+ text-align: center; 
+ border: 5px green double; 
+}
+
+
+a {
+ color: red; 
+}
+td {
+ color: white; 
+}
+
+#main_menu ul li{
+	display: none;
+}
+
